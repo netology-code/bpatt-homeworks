@@ -10,7 +10,7 @@
 
 [6.1 - Лицензирование. Ресурсы 1С-Битрикс](https://github.com/netology-code/bpatt-homeworks/blob/main/6_01/6_01%20licensing.md)
 
-[6.2 - Установка. Базовые настройки. Резервное копирование]()
+[6.2 - Установка. Базовые настройки. Резервное копирование](https://github.com/netology-code/bpatt-homeworks/blob/main/6_02/6_02%20Installation.md)
 
 [6.3 - Структура Битрикс. Экскурсия по админке](https://github.com/netology-code/bpatt-homeworks/blob/main/6_03/6_03%20Bitrix%20structure.md)
 

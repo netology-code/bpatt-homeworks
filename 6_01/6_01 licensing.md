@@ -21,7 +21,7 @@
 
 ### Инструкция к заданию
 
-1. Скопируйте шаблон таблицы по [ссылке](https://docs.google.com/spreadsheets/d/1E9iTqtJ7opS1FXKvW7IhLSNhxCAjp-JnLYdTk4rOtlE/edit#gid=0).
+1. Скопируйте шаблон таблицы по [ссылке](https://docs.google.com/spreadsheets/d/1HnP4FasypDiTTPmWM2eJD6ASjp4i0EXUl9EjwAzxJdA/edit?usp=sharing).
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в “Настройки доступа” и выберите доступ “Просматривать могут все в Интернете, у кого есть ссылка”. Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 4. Внесите ответы к заданию в таблицу.
